@@ -1,0 +1,9 @@
+[package]
+name = "link_finder"
+version = "0.1.0"
+authors = ["Rob Rowe <rrowe@foodlogiq.com>"]
+
+[dependencies]
+regex = "0.2"
+lazy_static = "1.0.0"
+clap = "2.31.2"
