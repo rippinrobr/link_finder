@@ -16,3 +16,9 @@ FLAGS:
 OPTIONS:
     -i, --input <MARKDOWN FILE>    A path to a markdown file
 ```
+
+### Running
+
+If you are new to the Rust world and you are going to run link_finder with cargo you'll need to run like this: 
+
+`cargo run -- --input <path to markdownfile>`
